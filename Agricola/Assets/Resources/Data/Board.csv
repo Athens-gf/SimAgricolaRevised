@@ -1,0 +1,36 @@
+﻿Copse,林,←木材1
+Grove,小さな森,←木材2
+Forest,森林,←木材3
+ClayPit,粘土坑,←レンガ1
+Hollow1,窪地,←レンガ1
+Hollow2,窪地,←レンガ2
+Hollow3,窪地,←レンガ3
+ReedBank,葦原,←葦1
+Fishing,漁,←食料1
+TravelingPlayers,小劇場,←食料1
+RiverbankForest,岸辺の林,←木材1 ＋葦
+GrainSeeds,小麦の種,＋小麦1
+DayLaborer,日雇い労働者,＋食料2
+ResourceMarket0,資材市場,＋石材 ＋食料
+ResourceMarket1,資材市場,＋葦/石材 ＋食料
+ResourceMarket2,資材市場,＋葦 ＋石材 ＋食料
+ResourceMarket3,資材市場,＋葦 ＋石材 ＋木材
+BuildingSupplies,資材商,＋葦/石材 ＋木材/レンガ ＋食料
+AnimalMarket,家畜市場,次のいずれか ＋羊1＋食料1|または ＋猪1|または ＋牛1 －食料1
+Corral,飼育場,"＋1頭　まだ持っていない家畜を得る|順番は　羊, 猪, 牛"
+Lessons0,授業,食料1を払う 職業1|1枚目の職業は無料
+Lessons1,授業,食料2を払う 職業1|1枚目と2枚めの職業は1食料安くなる
+Lessons2,授業,食料2を払う 職業1
+StartingPlayer,集会所,スタートプレイヤー|そして/または|小さい進歩
+Improvement,進歩,小さい進歩1枚|小さい進歩/大きい進歩|または、5ラウンド目以降、|大きい進歩1枚
+ModestWishForChildren,ちょっと子供がほしい,ラウンド5以降 部屋が必要|子供を増やす
+FarmExpansion,農場拡充,増築|木材5+葦2→木の家|レンガ5+葦2→レンガの家|石材5+葦2→石の家|そして/または|厩の建築|木材2→厩
+BuildRoom,建て増し,部屋を増築する|木材5+葦2→木の家|レンガ5+葦2→レンガの家|石材5+葦2→石の家
+Farmland,畑,畑を1つ耕す|畑
+FarmingSupplies,農耕補助,食料1→1×→小麦1|そして/または|畑を耕す|食料1→1×→畑1
+SideJob,副業,厩の建築|1木材1x→厩|そして/または|パンを焼く|パン焼き
+LinkedSpace,選択スペース,授業または林
+LinkedSpace,選択スペース,授業またはちょっと子供がほしい
+LinkedSpace,選択スペース,建て増しまたは小劇場
+LinkedSpace,選択スペース,林または資材市場または|家畜市場またはちょっと子供がほしい
+LinkedSpace,選択スペース,家畜市場またはちょっと子供がほしい
