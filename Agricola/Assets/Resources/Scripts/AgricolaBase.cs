@@ -5,7 +5,7 @@ using EnumExtension;
 
 namespace Agricola
 {
-	public static class Agricola
+	public static partial class Agricola
 	{
 		/// <summary>
 		/// 品物が建築資材かどうか

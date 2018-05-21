@@ -1,0 +1,19 @@
+﻿<Properties StartupConfiguration="{D93FA014-BBE7-491E-1BD4-187AB48C4672}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Resources/Scripts/Action/Base/AS_Forest.cs">
+    <Files>
+      <File FileName="Assets/Resources/Scripts/AgricolaBase.cs" Line="25" Column="1" />
+      <File FileName="Assets/Resources/Scripts/GameBoard.cs" Line="13" Column="61" />
+      <File FileName="Assets/Resources/Scripts/Player.cs" Line="8" Column="15" />
+      <File FileName="Assets/Resources/Scripts/Action/ActionSpace.cs" Line="70" Column="17" />
+      <File FileName="Assets/Resources/Scripts/Action/Base/AS_Forest.cs" Line="11" Column="3" />
+      <File FileName="Assets/Resources/Scripts/Action/Action.cs" Line="10" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
